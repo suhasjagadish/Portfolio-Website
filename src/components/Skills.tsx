@@ -9,28 +9,28 @@ const Skills = () => {
     {
       name: 'Python',
       logo: '🐍',
-      url: 'src/Images/python.1024x1018.png',
+      url: 'Images/python.1024x1018.png',
       rating: 5,
       description: 'Programming with Pandas, NumPy, Matplotlib, Seaborn, Data preprocessing'
     },
     {
       name: 'SQL',
       logo: '🗃️',
-      url: 'src/Images/sql.png',
+      url: 'Images/sql.png',
       rating: 5,
       description: 'Expert in complex queries, data manipulation, MySQL, PostgreSQL, SQLite, Query optimization, Stored procedures, Complex joins, Data warehousing'
     },
     {
       name: 'MS Excel',
       logo: '📊',
-      url: 'src/Images/ms-excel.png',
+      url: 'Images/ms-excel.png',
       rating: 4,
       description: 'Advanced formulas, Lookup formulas, Index Match, Pivot tables, Conditional Formatting, Data validation, Advanced charts'
     },
     {
       name: 'Power BI',
       logo: '📈',
-      url: 'src/Images/power-bi.png',
+      url: 'Images/power-bi.png',
       rating: 5,
       description: 'Creating interactive dashboards, DAX calculations, Custom Visuals and enterprise-level BI solutions'
     },
@@ -44,21 +44,21 @@ const Skills = () => {
     {
       name: 'Product Analytics',
       logo: '🎯',
-      url: 'src/Images/product_analytics.png',
+      url: 'Images/product_analytics.png',
       rating: 4,
       description: 'User behavior analysis, Product performance metrics, RCA, CRM, Customer segmentation, A/B testing, Funnel analysis, Guesstimation'
     },
     {
       name: 'Statistical Analytics',
       logo: '📉',
-      url: 'src/Images/histogram.png',
+      url: 'Images/histogram.png',
       rating: 4,
       description: 'Sampling, Distributions, Hypothesis testing, ANOVA, Chi-square tests, T-tests, Correlation analysis'
     },
     {
       name: 'AWS',
       logo: '☁️',
-      url: 'src/Images/aws.png',
+      url: 'Images/aws.png',
       rating: 3,
       description: 'Cloud data services including S3, Redshift, and Lambda for scalable analytics solutions'
     },
