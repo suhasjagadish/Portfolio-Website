@@ -41,7 +41,7 @@ const Hero = () => {
             <div className="mb-8">
               <div className="relative inline-block group">
                 <img
-                  src="public/Images/me.jpg"
+                  src="/Images/me.jpg"
                   alt="Suhas J"
                   className="profile-image w-48 h-48 rounded-full mx-auto object-cover shadow-2xl transition-all duration-700"
                 />
